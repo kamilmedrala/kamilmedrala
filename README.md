@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F3FEFC,100:07E7C4&height=110&animation=twinkling)
+
 ## Hi there 👋
 
 - 🔭 Working on... a lot
@@ -23,7 +25,10 @@
 <img align="left" alt="figma" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
 <br>
-
-
+<br>
 
 ### Stats
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F3FEFC,100:07E7C4&section=footer&height=110&animation=twinkling)
