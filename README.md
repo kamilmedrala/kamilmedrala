@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F3FEFC,100:07E7C4&height=110&animation=twinkling)
 ## Hi there 👋
 
 - 🔭 Working on... a lot
 - 🌱 I’m currently learning TypeScript
-- 🤖 Automatics and Robotics student
+- 🤖 Automatics and Robotics engineer
 
 <br>
 
